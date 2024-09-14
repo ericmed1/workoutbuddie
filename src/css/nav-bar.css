@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+}
+
+.navbar{
+    background-color: navy;
+    color: red;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2rem;
+    padding: 0 1rem;
+}
+
+
+.navbar a{
+    color: inherit;
+}
