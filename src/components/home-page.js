@@ -18,7 +18,7 @@ function homepage() {
           Welcome to WorkoutBuddie! 
         </h1>
         <p className = "pinfo">
-          Workbuddie is a workout tracker that will help you not only plan out your workout but also help 
+          Workoutbuddie is a workout tracker that will help you not only plan out your workout but also help 
           you know what wieght you should be doing for whatever lift you may be doing. Our main goal is to 
           help you along your wonderful fitness journey and hit all your goals!
         </p>
