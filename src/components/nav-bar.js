@@ -2,7 +2,7 @@ import '../css/nav-bar.css';
 
 export default function navbar() {
     return<nav className="navbar">
-            <a href='/homepage' className='homeTitle'>WorkoutBuddie</a>
+            <a href='/' className='homeTitle'>WorkoutBuddie</a>
             <ul>
                 <li>
                 <a href='/workoutlog'>Workout log</a>

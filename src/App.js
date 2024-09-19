@@ -13,7 +13,7 @@ function App() {
       <Navbar />
       <div className='main-content'>
         <Routes>
-          <Route exact path="/homepage" Component={homepage} />
+          <Route exact path="/" Component={homepage} />
           <Route path="/workoutlog" Component={workoutlog} />
           <Route path="/profile" Component={profile} />
           <Route path="/aboutus" Component={aboutus} />
